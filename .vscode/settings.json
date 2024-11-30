@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "functional": "cpp"
+    },
+    "files.encoding": "utf8"
+}
